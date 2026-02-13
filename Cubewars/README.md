@@ -1,6 +1,4 @@
-# Cube Wars :gun:
-
-This is my attempt of creating the Boxhead 2D zombie game.
+# Cube Wars 
 
 ## :mag_right: Installation
 
