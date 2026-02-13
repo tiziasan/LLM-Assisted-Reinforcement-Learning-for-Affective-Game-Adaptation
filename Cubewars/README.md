@@ -23,6 +23,4 @@ Visit [`localhost:5000`](localhost:5000)
 
 ![](https://i.imgur.com/MrgtDNt.png)
 
-## :paperclip: Resources
 
-- [Boxhead2](https://www.crazymonkeygames.com/Boxhead-2Play-Rooms.html)
