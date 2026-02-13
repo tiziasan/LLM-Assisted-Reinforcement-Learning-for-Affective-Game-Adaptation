@@ -19,8 +19,8 @@ Visit [`localhost:5000`](localhost:5000)
 
 ## :camera: Screenshots
 
-![](https://i.imgur.com/HY54lH2.png)
+![](HY54lH2.png)
 
-![](https://i.imgur.com/MrgtDNt.png)
+![](MrgtDNt.png)
 
 
