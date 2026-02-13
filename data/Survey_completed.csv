@@ -1,0 +1,139 @@
+User_id;Group;Order;Condition;How engaging was this gaming session? (1-5);How much did you enjoy this session? (1-5);How difficult did you find this session? (1-5);Did you notice the game adapting to you during play? (1-5);I felt completely absorbed in the game (1-5);"The game did not feel like it was ""cheating"" (1-5)";I could understand why the game adapted to me (1-5);I felt satisfied with the gameplay progression (1-5);Rank the three sessions from most to least enjoyable (1-3);Did you notice differences between the three sessions? (1-5);One or more sessions used AI to adapt the game to your emotional state.     How much did you understand how the adaptation worked? (1-5);How much did you trust the adaptive system? (1-5);How important is it to you to know when a game is adapting? (1-5);Overall, how enjoyable was the entire experiment? (1-5);Gender;Gaming experience
+1;1;Baseline→MFRL→LLM+MFRL;Baseline;3.0;3.0;4.0;2.0;3.0;3.0;3.0;3.0;3.0;3.0;2.0;3.0;3.0;4.0;Female;Casual gamer
+1;1;Baseline→MFRL→LLM+MFRL;MFRL;5.0;4.0;2.0;4.0;3.0;3.0;3.0;3.0;2.0;3.0;2.0;3.0;3.0;4.0;Female;Casual gamer
+1;1;Baseline→MFRL→LLM+MFRL;LLM+MFRL;4.0;3.0;1.0;3.0;3.0;4.0;3.0;3.0;1.0;3.0;2.0;3.0;3.0;4.0;Female;Casual gamer
+2;1;Baseline→MFRL→LLM+MFRL;Baseline;2.0;2.0;4.0;1.0;3.0;2.0;3.0;3.0;3.0;3.0;5.0;3.0;5.0;5.0;Male;Casual gamer
+2;1;Baseline→MFRL→LLM+MFRL;MFRL;3.0;4.0;2.0;4.0;3.0;3.0;3.0;3.0;2.0;3.0;5.0;3.0;5.0;5.0;Male;Casual gamer
+2;1;Baseline→MFRL→LLM+MFRL;LLM+MFRL;4.0;5.0;2.0;3.0;5.0;3.0;3.0;3.0;1.0;3.0;5.0;3.0;5.0;5.0;Male;Casual gamer
+3;1;Baseline→MFRL→LLM+MFRL;Baseline;3.0;2.0;2.0;2.0;3.0;4.0;3.0;3.0;3.0;4.0;4.0;5.0;3.0;3.0;Male;Casual gamer
+3;1;Baseline→MFRL→LLM+MFRL;MFRL;3.0;3.0;2.0;3.0;3.0;4.0;3.0;3.0;1.0;4.0;4.0;5.0;3.0;3.0;Male;Casual gamer
+3;1;Baseline→MFRL→LLM+MFRL;LLM+MFRL;4.0;3.0;3.0;3.0;3.0;4.0;3.0;3.0;2.0;4.0;4.0;5.0;3.0;3.0;Male;Casual gamer
+4;1;Baseline→MFRL→LLM+MFRL;Baseline;4.0;4.0;3.0;1.0;3.0;4.0;4.0;5.0;3.0;5.0;2.0;4.0;3.0;4.0;Female;Casual gamer
+4;1;Baseline→MFRL→LLM+MFRL;MFRL;3.0;3.0;2.0;2.0;4.0;5.0;4.0;5.0;2.0;5.0;2.0;4.0;3.0;4.0;Female;Casual gamer
+4;1;Baseline→MFRL→LLM+MFRL;LLM+MFRL;4.0;5.0;3.0;3.0;4.0;5.0;4.0;5.0;1.0;5.0;2.0;4.0;3.0;4.0;Female;Casual gamer
+5;1;Baseline→MFRL→LLM+MFRL;Baseline;3.0;4.0;1.0;2.0;3.0;3.0;3.0;4.0;3.0;4.0;5.0;3.0;3.0;3.0;Female;Non-gamer
+5;1;Baseline→MFRL→LLM+MFRL;MFRL;4.0;2.0;3.0;4.0;5.0;3.0;3.0;4.0;1.0;4.0;5.0;3.0;3.0;3.0;Female;Non-gamer
+5;1;Baseline→MFRL→LLM+MFRL;LLM+MFRL;3.0;4.0;3.0;4.0;3.0;4.0;3.0;4.0;2.0;4.0;5.0;3.0;3.0;3.0;Female;Non-gamer
+6;1;Baseline→MFRL→LLM+MFRL;Baseline;3.0;4.0;3.0;1.0;2.0;2.0;3.0;4.0;3.0;3.0;1.0;3.0;5.0;4.0;Female;Casual gamer
+6;1;Baseline→MFRL→LLM+MFRL;MFRL;4.0;4.0;3.0;3.0;2.0;3.0;3.0;4.0;2.0;3.0;1.0;3.0;5.0;4.0;Female;Casual gamer
+6;1;Baseline→MFRL→LLM+MFRL;LLM+MFRL;4.0;4.0;2.0;4.0;5.0;4.0;3.0;4.0;1.0;3.0;1.0;3.0;5.0;4.0;Female;Casual gamer
+7;1;Baseline→MFRL→LLM+MFRL;Baseline;3.0;3.0;2.0;1.0;3.0;5.0;4.0;3.0;3.0;4.0;4.0;4.0;4.0;4.0;Female;Casual gamer
+7;1;Baseline→MFRL→LLM+MFRL;MFRL;3.0;4.0;3.0;2.0;4.0;4.0;4.0;3.0;2.0;4.0;4.0;4.0;4.0;4.0;Female;Casual gamer
+7;1;Baseline→MFRL→LLM+MFRL;LLM+MFRL;5.0;3.0;3.0;3.0;4.0;5.0;4.0;3.0;1.0;4.0;4.0;4.0;4.0;4.0;Female;Casual gamer
+8;1;Baseline→MFRL→LLM+MFRL;Baseline;2.0;3.0;3.0;1.0;2.0;4.0;4.0;3.0;3.0;3.0;2.0;4.0;4.0;4.0;Male;Casual gamer
+8;1;Baseline→MFRL→LLM+MFRL;MFRL;3.0;4.0;2.0;5.0;3.0;3.0;4.0;3.0;2.0;3.0;2.0;4.0;4.0;4.0;Male;Casual gamer
+8;1;Baseline→MFRL→LLM+MFRL;LLM+MFRL;5.0;3.0;3.0;5.0;3.0;4.0;4.0;3.0;1.0;3.0;2.0;4.0;4.0;4.0;Male;Casual gamer
+9;1;Baseline→MFRL→LLM+MFRL;Baseline;3.0;3.0;2.0;1.0;3.0;4.0;3.0;4.0;3.0;3.0;4.0;4.0;5.0;3.0;Female;Casual gamer
+9;1;Baseline→MFRL→LLM+MFRL;MFRL;4.0;4.0;2.0;3.0;4.0;3.0;3.0;4.0;1.0;3.0;4.0;4.0;5.0;3.0;Female;Casual gamer
+9;1;Baseline→MFRL→LLM+MFRL;LLM+MFRL;5.0;4.0;2.0;4.0;3.0;4.0;3.0;4.0;2.0;3.0;4.0;4.0;5.0;3.0;Female;Casual gamer
+10;1;Baseline→MFRL→LLM+MFRL;Baseline;4.0;2.0;4.0;2.0;3.0;5.0;3.0;5.0;3.0;3.0;3.0;4.0;4.0;3.0;Male;Regular gamer
+10;1;Baseline→MFRL→LLM+MFRL;MFRL;3.0;3.0;2.0;2.0;3.0;4.0;3.0;5.0;1.0;3.0;3.0;4.0;4.0;3.0;Male;Regular gamer
+10;1;Baseline→MFRL→LLM+MFRL;LLM+MFRL;4.0;5.0;3.0;5.0;4.0;5.0;3.0;5.0;2.0;3.0;3.0;4.0;4.0;3.0;Male;Regular gamer
+11;1;Baseline→MFRL→LLM+MFRL;Baseline;3.0;2.0;2.0;2.0;3.0;4.0;4.0;2.0;3.0;4.0;3.0;5.0;4.0;3.0;Male;Casual gamer
+11;1;Baseline→MFRL→LLM+MFRL;MFRL;4.0;4.0;2.0;2.0;3.0;4.0;4.0;2.0;2.0;4.0;3.0;5.0;4.0;3.0;Male;Casual gamer
+11;1;Baseline→MFRL→LLM+MFRL;LLM+MFRL;4.0;3.0;3.0;4.0;3.0;4.0;4.0;2.0;1.0;4.0;3.0;5.0;4.0;3.0;Male;Casual gamer
+12;1;Baseline→MFRL→LLM+MFRL;Baseline;3.0;2.0;3.0;2.0;3.0;4.0;5.0;3.0;3.0;4.0;4.0;4.0;5.0;5.0;Male;Casual gamer
+12;1;Baseline→MFRL→LLM+MFRL;MFRL;3.0;3.0;3.0;4.0;4.0;5.0;5.0;3.0;2.0;4.0;4.0;4.0;5.0;5.0;Male;Casual gamer
+12;1;Baseline→MFRL→LLM+MFRL;LLM+MFRL;4.0;5.0;3.0;4.0;4.0;4.0;5.0;3.0;1.0;4.0;4.0;4.0;5.0;5.0;Male;Casual gamer
+13;1;Baseline→MFRL→LLM+MFRL;Baseline;2.0;3.0;3.0;2.0;4.0;2.0;4.0;4.0;3.0;5.0;2.0;2.0;3.0;4.0;Male;Casual gamer
+13;1;Baseline→MFRL→LLM+MFRL;MFRL;4.0;2.0;2.0;4.0;3.0;3.0;4.0;4.0;1.0;5.0;2.0;2.0;3.0;4.0;Male;Casual gamer
+13;1;Baseline→MFRL→LLM+MFRL;LLM+MFRL;3.0;5.0;2.0;4.0;4.0;3.0;4.0;4.0;2.0;5.0;2.0;2.0;3.0;4.0;Male;Casual gamer
+14;1;Baseline→MFRL→LLM+MFRL;Baseline;4.0;3.0;2.0;2.0;2.0;4.0;3.0;4.0;3.0;4.0;4.0;3.0;4.0;4.0;Female;Regular gamer
+14;1;Baseline→MFRL→LLM+MFRL;MFRL;3.0;4.0;3.0;4.0;2.0;3.0;3.0;4.0;2.0;4.0;4.0;3.0;4.0;4.0;Female;Regular gamer
+14;1;Baseline→MFRL→LLM+MFRL;LLM+MFRL;4.0;4.0;4.0;4.0;3.0;5.0;3.0;4.0;1.0;4.0;4.0;3.0;4.0;4.0;Female;Regular gamer
+15;1;Baseline→MFRL→LLM+MFRL;Baseline;4.0;4.0;2.0;1.0;4.0;3.0;4.0;4.0;3.0;4.0;4.0;4.0;4.0;4.0;Male;Regular gamer
+15;1;Baseline→MFRL→LLM+MFRL;MFRL;4.0;4.0;2.0;3.0;1.0;3.0;4.0;4.0;2.0;4.0;4.0;4.0;4.0;4.0;Male;Regular gamer
+15;1;Baseline→MFRL→LLM+MFRL;LLM+MFRL;4.0;3.0;4.0;3.0;4.0;4.0;4.0;4.0;1.0;4.0;4.0;4.0;4.0;4.0;Male;Regular gamer
+16;2;MFRL→LLM+MFRL→Baseline;MFRL;5.0;3.0;4.0;3.0;3.0;4.0;4.0;3.0;1.0;4.0;2.0;3.0;2.0;4.0;Male;Casual gamer
+16;2;MFRL→LLM+MFRL→Baseline;LLM+MFRL;4.0;4.0;3.0;3.0;4.0;4.0;4.0;3.0;2.0;4.0;2.0;3.0;2.0;4.0;Male;Casual gamer
+16;2;MFRL→LLM+MFRL→Baseline;Baseline;4.0;2.0;5.0;1.0;3.0;4.0;4.0;3.0;3.0;4.0;2.0;3.0;2.0;4.0;Male;Casual gamer
+17;2;MFRL→LLM+MFRL→Baseline;MFRL;4.0;3.0;3.0;3.0;3.0;4.0;3.0;2.0;2.0;3.0;4.0;4.0;4.0;3.0;Prefer not to say;Casual gamer
+17;2;MFRL→LLM+MFRL→Baseline;LLM+MFRL;4.0;4.0;3.0;4.0;5.0;4.0;3.0;2.0;1.0;3.0;4.0;4.0;4.0;3.0;Prefer not to say;Casual gamer
+17;2;MFRL→LLM+MFRL→Baseline;Baseline;2.0;3.0;4.0;2.0;3.0;4.0;3.0;2.0;3.0;3.0;4.0;4.0;4.0;3.0;Prefer not to say;Casual gamer
+18;2;MFRL→LLM+MFRL→Baseline;MFRL;4.0;3.0;3.0;3.0;3.0;4.0;3.0;5.0;2.0;4.0;3.0;5.0;3.0;4.0;Male;Non-gamer
+18;2;MFRL→LLM+MFRL→Baseline;LLM+MFRL;5.0;5.0;3.0;4.0;4.0;4.0;3.0;5.0;1.0;4.0;3.0;5.0;3.0;4.0;Male;Non-gamer
+18;2;MFRL→LLM+MFRL→Baseline;Baseline;3.0;3.0;3.0;2.0;2.0;5.0;3.0;5.0;3.0;4.0;3.0;5.0;3.0;4.0;Male;Non-gamer
+19;2;MFRL→LLM+MFRL→Baseline;MFRL;3.0;3.0;4.0;4.0;4.0;4.0;2.0;3.0;2.0;5.0;4.0;3.0;4.0;5.0;Non-binary;Non-gamer
+19;2;MFRL→LLM+MFRL→Baseline;LLM+MFRL;4.0;3.0;3.0;3.0;5.0;4.0;2.0;3.0;1.0;5.0;4.0;3.0;4.0;5.0;Non-binary;Non-gamer
+19;2;MFRL→LLM+MFRL→Baseline;Baseline;2.0;3.0;4.0;1.0;2.0;4.0;2.0;3.0;3.0;5.0;4.0;3.0;4.0;5.0;Non-binary;Non-gamer
+20;2;MFRL→LLM+MFRL→Baseline;MFRL;4.0;3.0;2.0;3.0;2.0;2.0;4.0;5.0;1.0;4.0;3.0;4.0;3.0;4.0;Male;Hardcore gamer
+20;2;MFRL→LLM+MFRL→Baseline;LLM+MFRL;3.0;4.0;3.0;5.0;5.0;4.0;4.0;5.0;2.0;4.0;3.0;4.0;3.0;4.0;Male;Hardcore gamer
+20;2;MFRL→LLM+MFRL→Baseline;Baseline;3.0;2.0;3.0;1.0;3.0;3.0;4.0;5.0;3.0;4.0;3.0;4.0;3.0;4.0;Male;Hardcore gamer
+21;2;MFRL→LLM+MFRL→Baseline;MFRL;4.0;5.0;3.0;4.0;4.0;3.0;4.0;4.0;1.0;5.0;2.0;5.0;4.0;3.0;Male;Casual gamer
+21;2;MFRL→LLM+MFRL→Baseline;LLM+MFRL;4.0;4.0;3.0;3.0;4.0;4.0;4.0;4.0;2.0;5.0;2.0;5.0;4.0;3.0;Male;Casual gamer
+21;2;MFRL→LLM+MFRL→Baseline;Baseline;4.0;4.0;5.0;1.0;3.0;4.0;4.0;4.0;3.0;5.0;2.0;5.0;4.0;3.0;Male;Casual gamer
+22;2;MFRL→LLM+MFRL→Baseline;MFRL;5.0;3.0;2.0;3.0;2.0;3.0;3.0;3.0;1.0;4.0;4.0;4.0;5.0;4.0;Male;Hardcore gamer
+22;2;MFRL→LLM+MFRL→Baseline;LLM+MFRL;3.0;4.0;3.0;5.0;5.0;3.0;3.0;3.0;2.0;4.0;4.0;4.0;5.0;4.0;Male;Hardcore gamer
+22;2;MFRL→LLM+MFRL→Baseline;Baseline;2.0;3.0;2.0;3.0;4.0;3.0;3.0;3.0;3.0;4.0;4.0;4.0;5.0;4.0;Male;Hardcore gamer
+23;2;MFRL→LLM+MFRL→Baseline;MFRL;2.0;5.0;3.0;4.0;2.0;3.0;3.0;4.0;1.0;4.0;2.0;3.0;2.0;4.0;Male;Casual gamer
+23;2;MFRL→LLM+MFRL→Baseline;LLM+MFRL;4.0;4.0;2.0;4.0;3.0;4.0;3.0;4.0;2.0;4.0;2.0;3.0;2.0;4.0;Male;Casual gamer
+23;2;MFRL→LLM+MFRL→Baseline;Baseline;3.0;3.0;4.0;1.0;2.0;5.0;3.0;4.0;3.0;4.0;2.0;3.0;2.0;4.0;Male;Casual gamer
+24;2;MFRL→LLM+MFRL→Baseline;MFRL;4.0;3.0;4.0;3.0;4.0;4.0;4.0;2.0;2.0;5.0;3.0;5.0;2.0;3.0;Non-binary;Casual gamer
+24;2;MFRL→LLM+MFRL→Baseline;LLM+MFRL;5.0;5.0;2.0;5.0;4.0;5.0;4.0;2.0;1.0;5.0;3.0;5.0;2.0;3.0;Non-binary;Casual gamer
+24;2;MFRL→LLM+MFRL→Baseline;Baseline;2.0;3.0;4.0;1.0;2.0;2.0;4.0;2.0;3.0;5.0;3.0;5.0;2.0;3.0;Non-binary;Casual gamer
+25;2;MFRL→LLM+MFRL→Baseline;MFRL;3.0;4.0;4.0;3.0;5.0;2.0;5.0;5.0;3.0;4.0;3.0;4.0;4.0;3.0;Male;Hardcore gamer
+25;2;MFRL→LLM+MFRL→Baseline;LLM+MFRL;3.0;4.0;3.0;4.0;2.0;4.0;5.0;5.0;1.0;4.0;3.0;4.0;4.0;3.0;Male;Hardcore gamer
+25;2;MFRL→LLM+MFRL→Baseline;Baseline;2.0;3.0;3.0;1.0;2.0;3.0;5.0;5.0;2.0;4.0;3.0;4.0;4.0;3.0;Male;Hardcore gamer
+26;2;MFRL→LLM+MFRL→Baseline;MFRL;3.0;4.0;2.0;4.0;3.0;3.0;3.0;2.0;2.0;4.0;3.0;4.0;2.0;4.0;Male;Casual gamer
+26;2;MFRL→LLM+MFRL→Baseline;LLM+MFRL;4.0;3.0;2.0;3.0;5.0;4.0;3.0;2.0;1.0;4.0;3.0;4.0;2.0;4.0;Male;Casual gamer
+26;2;MFRL→LLM+MFRL→Baseline;Baseline;2.0;3.0;3.0;1.0;3.0;4.0;3.0;2.0;3.0;4.0;3.0;4.0;2.0;4.0;Male;Casual gamer
+27;2;MFRL→LLM+MFRL→Baseline;MFRL;3.0;3.0;3.0;1.0;2.0;5.0;2.0;5.0;2.0;4.0;3.0;3.0;4.0;4.0;Female;Casual gamer
+27;2;MFRL→LLM+MFRL→Baseline;LLM+MFRL;5.0;4.0;3.0;4.0;5.0;5.0;2.0;5.0;1.0;4.0;3.0;3.0;4.0;4.0;Female;Casual gamer
+27;2;MFRL→LLM+MFRL→Baseline;Baseline;3.0;2.0;2.0;2.0;2.0;2.0;2.0;5.0;3.0;4.0;3.0;3.0;4.0;4.0;Female;Casual gamer
+28;2;MFRL→LLM+MFRL→Baseline;MFRL;3.0;3.0;4.0;4.0;3.0;5.0;2.0;4.0;2.0;3.0;2.0;4.0;5.0;5.0;Female;Regular gamer
+28;2;MFRL→LLM+MFRL→Baseline;LLM+MFRL;4.0;3.0;4.0;4.0;3.0;4.0;2.0;4.0;1.0;3.0;2.0;4.0;5.0;5.0;Female;Regular gamer
+28;2;MFRL→LLM+MFRL→Baseline;Baseline;2.0;2.0;4.0;3.0;2.0;4.0;2.0;4.0;3.0;3.0;2.0;4.0;5.0;5.0;Female;Regular gamer
+29;2;MFRL→LLM+MFRL→Baseline;MFRL;3.0;3.0;2.0;2.0;3.0;3.0;4.0;4.0;2.0;4.0;3.0;3.0;4.0;4.0;Male;Casual gamer
+29;2;MFRL→LLM+MFRL→Baseline;LLM+MFRL;4.0;4.0;2.0;3.0;3.0;4.0;4.0;4.0;1.0;4.0;3.0;3.0;4.0;4.0;Male;Casual gamer
+29;2;MFRL→LLM+MFRL→Baseline;Baseline;3.0;2.0;3.0;2.0;2.0;4.0;4.0;4.0;3.0;4.0;3.0;3.0;4.0;4.0;Male;Casual gamer
+30;2;MFRL→LLM+MFRL→Baseline;MFRL;3.0;4.0;2.0;2.0;2.0;4.0;3.0;3.0;1.0;4.0;2.0;3.0;4.0;4.0;Female;Regular gamer
+30;2;MFRL→LLM+MFRL→Baseline;LLM+MFRL;4.0;3.0;3.0;2.0;4.0;3.0;3.0;3.0;2.0;4.0;2.0;3.0;4.0;4.0;Female;Regular gamer
+30;2;MFRL→LLM+MFRL→Baseline;Baseline;2.0;3.0;3.0;1.0;3.0;3.0;3.0;3.0;3.0;4.0;2.0;3.0;4.0;4.0;Female;Regular gamer
+31;3;LLM+MFRL → Baseline → MFRL;LLM+MFRL;5.0;3.0;3.0;5.0;2.0;3.0;5.0;3.0;2.0;5.0;2.0;4.0;3.0;3.0;Male;Regular gamer
+31;3;LLM+MFRL → Baseline → MFRL;Baseline;3.0;3.0;3.0;1.0;3.0;3.0;5.0;3.0;3.0;5.0;2.0;4.0;3.0;3.0;Male;Regular gamer
+31;3;LLM+MFRL → Baseline → MFRL;MFRL;4.0;4.0;3.0;3.0;3.0;3.0;5.0;3.0;1.0;5.0;2.0;4.0;3.0;3.0;Male;Regular gamer
+32;3;LLM+MFRL → Baseline → MFRL;LLM+MFRL;4.0;4.0;3.0;5.0;5.0;4.0;5.0;4.0;1.0;5.0;4.0;4.0;3.0;4.0;Female;Regular gamer
+32;3;LLM+MFRL → Baseline → MFRL;Baseline;4.0;3.0;2.0;1.0;1.0;3.0;5.0;4.0;2.0;5.0;4.0;4.0;3.0;4.0;Female;Regular gamer
+32;3;LLM+MFRL → Baseline → MFRL;MFRL;4.0;5.0;3.0;3.0;4.0;2.0;5.0;4.0;3.0;5.0;4.0;4.0;3.0;4.0;Female;Regular gamer
+33;3;LLM+MFRL → Baseline → MFRL;LLM+MFRL;4.0;5.0;1.0;5.0;4.0;3.0;4.0;3.0;2.0;5.0;2.0;4.0;3.0;4.0;Female;Regular gamer
+33;3;LLM+MFRL → Baseline → MFRL;Baseline;3.0;4.0;3.0;2.0;2.0;3.0;4.0;3.0;3.0;5.0;2.0;4.0;3.0;4.0;Female;Regular gamer
+33;3;LLM+MFRL → Baseline → MFRL;MFRL;4.0;3.0;3.0;3.0;4.0;4.0;4.0;3.0;1.0;5.0;2.0;4.0;3.0;4.0;Female;Regular gamer
+34;3;LLM+MFRL → Baseline → MFRL;LLM+MFRL;5.0;4.0;2.0;3.0;4.0;4.0;3.0;4.0;2.0;4.0;1.0;3.0;5.0;4.0;Female;Casual gamer
+34;3;LLM+MFRL → Baseline → MFRL;Baseline;3.0;2.0;4.0;2.0;3.0;5.0;3.0;4.0;3.0;4.0;1.0;3.0;5.0;4.0;Female;Casual gamer
+34;3;LLM+MFRL → Baseline → MFRL;MFRL;3.0;3.0;2.0;5.0;4.0;4.0;3.0;4.0;1.0;4.0;1.0;3.0;5.0;4.0;Female;Casual gamer
+35;3;LLM+MFRL → Baseline → MFRL;LLM+MFRL;4.0;3.0;4.0;4.0;4.0;4.0;3.0;4.0;1.0;4.0;3.0;3.0;3.0;5.0;Male;Casual gamer
+35;3;LLM+MFRL → Baseline → MFRL;Baseline;3.0;3.0;3.0;2.0;4.0;5.0;3.0;4.0;3.0;4.0;3.0;3.0;3.0;5.0;Male;Casual gamer
+35;3;LLM+MFRL → Baseline → MFRL;MFRL;5.0;3.0;2.0;3.0;3.0;4.0;3.0;4.0;2.0;4.0;3.0;3.0;3.0;5.0;Male;Casual gamer
+36;3;LLM+MFRL → Baseline → MFRL;LLM+MFRL;3.0;5.0;2.0;3.0;3.0;2.0;2.0;3.0;1.0;4.0;3.0;3.0;5.0;5.0;Male;Hardcore gamer
+36;3;LLM+MFRL → Baseline → MFRL;Baseline;3.0;3.0;2.0;1.0;2.0;5.0;2.0;3.0;3.0;4.0;3.0;3.0;5.0;5.0;Male;Hardcore gamer
+36;3;LLM+MFRL → Baseline → MFRL;MFRL;3.0;3.0;3.0;3.0;1.0;4.0;2.0;3.0;2.0;4.0;3.0;3.0;5.0;5.0;Male;Hardcore gamer
+37;3;LLM+MFRL → Baseline → MFRL;LLM+MFRL;4.0;5.0;4.0;5.0;4.0;3.0;1.0;5.0;2.0;3.0;2.0;4.0;5.0;5.0;Female;Casual gamer
+37;3;LLM+MFRL → Baseline → MFRL;Baseline;5.0;3.0;3.0;1.0;3.0;3.0;1.0;5.0;3.0;3.0;2.0;4.0;5.0;5.0;Female;Casual gamer
+37;3;LLM+MFRL → Baseline → MFRL;MFRL;3.0;3.0;3.0;3.0;3.0;4.0;1.0;5.0;1.0;3.0;2.0;4.0;5.0;5.0;Female;Casual gamer
+38;3;LLM+MFRL → Baseline → MFRL;LLM+MFRL;4.0;5.0;1.0;5.0;5.0;2.0;4.0;3.0;1.0;4.0;3.0;4.0;4.0;3.0;Male;Casual gamer
+38;3;LLM+MFRL → Baseline → MFRL;Baseline;3.0;3.0;2.0;1.0;2.0;5.0;4.0;3.0;3.0;4.0;3.0;4.0;4.0;3.0;Male;Casual gamer
+38;3;LLM+MFRL → Baseline → MFRL;MFRL;4.0;4.0;3.0;2.0;3.0;4.0;4.0;3.0;2.0;4.0;3.0;4.0;4.0;3.0;Male;Casual gamer
+39;3;LLM+MFRL → Baseline → MFRL;LLM+MFRL;3.0;5.0;2.0;4.0;4.0;4.0;3.0;5.0;1.0;5.0;2.0;3.0;5.0;3.0;Female;Casual gamer
+39;3;LLM+MFRL → Baseline → MFRL;Baseline;3.0;4.0;2.0;2.0;3.0;3.0;3.0;5.0;3.0;5.0;2.0;3.0;5.0;3.0;Female;Casual gamer
+39;3;LLM+MFRL → Baseline → MFRL;MFRL;4.0;3.0;3.0;3.0;3.0;4.0;3.0;5.0;2.0;5.0;2.0;3.0;5.0;3.0;Female;Casual gamer
+40;3;LLM+MFRL → Baseline → MFRL;LLM+MFRL;4.0;3.0;1.0;4.0;3.0;5.0;3.0;5.0;1.0;4.0;3.0;3.0;5.0;4.0;Male;Regular gamer
+40;3;LLM+MFRL → Baseline → MFRL;Baseline;1.0;4.0;3.0;1.0;2.0;4.0;3.0;5.0;3.0;4.0;3.0;3.0;5.0;4.0;Male;Regular gamer
+40;3;LLM+MFRL → Baseline → MFRL;MFRL;3.0;4.0;3.0;3.0;3.0;4.0;3.0;5.0;2.0;4.0;3.0;3.0;5.0;4.0;Male;Regular gamer
+41;3;LLM+MFRL → Baseline → MFRL;LLM+MFRL;4.0;3.0;2.0;4.0;4.0;4.0;3.0;4.0;2.0;4.0;3.0;3.0;3.0;3.0;Male;Casual gamer
+41;3;LLM+MFRL → Baseline → MFRL;Baseline;3.0;3.0;3.0;1.0;3.0;3.0;3.0;4.0;3.0;4.0;3.0;3.0;3.0;3.0;Male;Casual gamer
+41;3;LLM+MFRL → Baseline → MFRL;MFRL;4.0;2.0;4.0;4.0;4.0;4.0;3.0;4.0;1.0;4.0;3.0;3.0;3.0;3.0;Male;Casual gamer
+42;3;LLM+MFRL → Baseline → MFRL;LLM+MFRL;5.0;5.0;1.0;3.0;3.0;4.0;5.0;4.0;1.0;4.0;4.0;3.0;5.0;3.0;Female;Casual gamer
+42;3;LLM+MFRL → Baseline → MFRL;Baseline;3.0;2.0;3.0;1.0;2.0;2.0;5.0;4.0;3.0;4.0;4.0;3.0;5.0;3.0;Female;Casual gamer
+42;3;LLM+MFRL → Baseline → MFRL;MFRL;3.0;3.0;2.0;4.0;3.0;5.0;5.0;4.0;2.0;4.0;4.0;3.0;5.0;3.0;Female;Casual gamer
+43;3;LLM+MFRL → Baseline → MFRL;LLM+MFRL;4.0;4.0;2.0;4.0;3.0;4.0;2.0;4.0;1.0;4.0;3.0;3.0;4.0;4.0;Female;Casual gamer
+43;3;LLM+MFRL → Baseline → MFRL;Baseline;5.0;3.0;4.0;1.0;3.0;5.0;2.0;4.0;3.0;4.0;3.0;3.0;4.0;4.0;Female;Casual gamer
+43;3;LLM+MFRL → Baseline → MFRL;MFRL;3.0;5.0;3.0;3.0;4.0;4.0;2.0;4.0;2.0;4.0;3.0;3.0;4.0;4.0;Female;Casual gamer
+44;3;LLM+MFRL → Baseline → MFRL;LLM+MFRL;4.0;3.0;2.0;4.0;4.0;4.0;3.0;5.0;1.0;3.0;3.0;3.0;4.0;3.0;Male;Regular gamer
+44;3;LLM+MFRL → Baseline → MFRL;Baseline;3.0;2.0;4.0;2.0;3.0;4.0;3.0;5.0;3.0;3.0;3.0;3.0;4.0;3.0;Male;Regular gamer
+44;3;LLM+MFRL → Baseline → MFRL;MFRL;4.0;4.0;3.0;2.0;4.0;4.0;3.0;5.0;2.0;3.0;3.0;3.0;4.0;3.0;Male;Regular gamer
+45;3;LLM+MFRL → Baseline → MFRL;LLM+MFRL;4.0;3.0;2.0;5.0;4.0;4.0;4.0;5.0;1.0;4.0;3.0;3.0;3.0;3.0;Female;Non-gamer
+45;3;LLM+MFRL → Baseline → MFRL;Baseline;3.0;3.0;4.0;1.0;3.0;3.0;4.0;5.0;3.0;4.0;3.0;3.0;3.0;3.0;Female;Non-gamer
+45;3;LLM+MFRL → Baseline → MFRL;MFRL;3.0;3.0;3.0;3.0;4.0;3.0;4.0;5.0;2.0;4.0;3.0;3.0;3.0;3.0;Female;Non-gamer
+46;3;LLM+MFRL → Baseline → MFRL;LLM+MFRL;4.0;4.0;4.0;4.0;5.0;3.0;2.0;3.0;1.0;4.0;4.0;3.0;4.0;5.0;Male;Regular gamer
+46;3;LLM+MFRL → Baseline → MFRL;Baseline;3.0;4.0;3.0;2.0;2.0;5.0;2.0;3.0;3.0;4.0;4.0;3.0;4.0;5.0;Male;Regular gamer
+46;3;LLM+MFRL → Baseline → MFRL;MFRL;5.0;3.0;2.0;5.0;5.0;3.0;2.0;3.0;2.0;4.0;4.0;3.0;4.0;5.0;Male;Regular gamer
