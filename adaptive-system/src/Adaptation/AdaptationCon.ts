@@ -51,7 +51,7 @@ const initializeRLAgent = () => {
         Qlearner = new QLearner(GameElements, llmService);
 
         if (ExperimentConfig.shouldUseLLM() && llmService) {
-            console.log("🤖 Q-Learning initialized WITH LLM guidance (70% Q / 25% LLM / 5% Random)");
+            console.log("🤖 Q-Learning initialized WITH LLM guidance (63% Q / 25% LLM / 12% Random)");
         } else {
             console.log("📊 Q-Learning initialized WITHOUT LLM - Pure RL (90% Q / 10% Random)");
         }

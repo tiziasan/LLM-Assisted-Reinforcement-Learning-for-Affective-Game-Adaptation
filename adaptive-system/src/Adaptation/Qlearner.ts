@@ -41,7 +41,7 @@ export enum Actions {
      constructor(gameElements: GameElement[], llmService?: LLMService) {
       this.alpha = 0.9;
       this.gamma = 0.9;
-      this.epsilon = 0.9;
+      this.epsilon = 1;
       this.action_index = 999;
       this.GameElement = gameElements;
       this.llmService = llmService;
@@ -219,7 +219,6 @@ export enum Actions {
          const context = this.getGameContext();
          const currentEmotion = this.emotionalState.getCurrentEmotion();
 
-         // 70% Q-table exploitation
          if (random < epsilon * 0.7) {
              const qValues = this.FindValueOfCurrentState(this.qTable, 0);  // ✅ Get Q-values
              const index_of_best_action = qValues.reduce(
@@ -249,7 +248,7 @@ export enum Actions {
          }
 
 
-         else if (random < epsilon * 0.7 + 0.25 && this.llmService) {
+         else if (random < epsilon * 0.7 + 0.20 && this.llmService) {
              try {
                  const context = this.getGameContext();
                  const llmResponse = await this.llmService.getSuggestion(context);
